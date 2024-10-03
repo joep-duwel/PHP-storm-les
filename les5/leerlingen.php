@@ -42,5 +42,5 @@ $leerlingen = $query->fetchAll(PDO::FETCH_ASSOC);
 </table>
 
 <br>
-<a href="klassen.php">Terug naar Klassen pagina</a>
+<a href="index.php">Terug naar Klassen pagina</a>
 
